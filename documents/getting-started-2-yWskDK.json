@@ -1,9 +1,14 @@
 {
-  "type": "doc",
   "blocks": [
     {
-      "type": "text",
-      "content": "Hello GitHub-backed Notion!"
+      "type": "paragraph",
+      "content": "Updated content here...",
+      "children": []
     }
+  ],
+  "coverImage": "https://...",
+  "tags": [
+    "notion",
+    "editor"
   ]
 }
